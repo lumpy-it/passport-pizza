@@ -1,0 +1,15 @@
+{
+  "name": "passport-pizza",
+  "version": "1.0.0",
+  "description": "Passport.js strategy for OAuth2 with pizza-auth-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lunedis",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0",
+    "util": "^0.10.3"
+  }
+}
